@@ -6,5 +6,4 @@
 * Заведите [Issue](https://github.com/SberBusinessAPI/feedback/issues) (Проблему), которую сразу увидят и прокомментируют наши разработчики. 
 * Откройте тему в [Discussions](https://github.com/SberBusinessAPI/feedback/discussions) (Дискуссиях) на нашей стене обсуждений. Задайте вопросы разработчикам, оставьте отзыв о SberBusinessAPI, помогите другим пользователям или отметьте интересующую вас тему.
 Чтобы отметить тему, нажмите на стрелочку вверх рядом с заголовком темы. 
-* Напишите в [Телеграм-чат](https://t.me/joinchat/TiIaDjrtGt02YjYy).
 
